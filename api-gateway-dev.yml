@@ -15,6 +15,6 @@ zuul:
   ignored-patterns:
     - /**/product/listForOrder
 #  sensitive-headers: 
-management:
-  security:
-    enabled: false
+# management:
+#   security:
+#     enabled: false
